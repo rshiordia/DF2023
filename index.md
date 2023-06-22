@@ -2,6 +2,7 @@
 title: Introducción
 layout: home
 ---
+
 # Digital Futures 2023
 ## Diseño Avanzado de Mallas para Fabricación Digital
 ### Temas:
