@@ -1,53 +1,23 @@
-# just-the-docs-template
+# Digital Futures 2023
+## Diseño Avanzado de Mallas para Fabricación Digital
+### Temas:
+- Diseño Computacional, Fabricación Digital
+### Descripción:
+Este taller se centrará en el diseño, análisis y procesamiento de superficies de doble curvatura y su segmentación y manejo para su construcción por medio de técnicas avanzadas de diseño paramétrico, scripting, y fabricación digital. El objetivo fundamental es profundizar en el uso de superficies complejas para el diseño en general y abordar los retos para su fabricación de una manera didáctica y sencilla gracias a las herramientas digitales. 
+Se estudiarán diversos scripts de generación de superficies matemáticas, flujos de trabajo para su segmentación y su manejo para generar datos de fabricación por medio de herramientas de diseño paramétrico. 
+### Objetivos de aprendizaje y resultados esperados:
+Debido a que el taller es a distancia, se buscará que cada asistente, usando herramientas locales, pueda implementar flujos de trabajo de superficies complejas con herramientas sencillas. Se buscará la fabricación de un modelo de una superficie matemática de la escala que cada asistente juzgue pertinente. 
+Cada asistente aprenderá a diseñar y analizar superficies matemáticas y las mejores maneras de fabricarlas con herramientas comunes. 
+### Sesiones propuestas:
+- Taller
+- 22 jul
+- 23 jul
+- 24 jul
+- Revisión intermedia: 26 jul
+- Entrega y presentación final 29 jul
+### Prerrequisitos:
+Computadora con Rhinoceros, acceso a una impresora de papel y/ó una cortadora láser. 
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
-
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
-
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
-
-To get started with creating a site, just click "[use this template]"!
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](#hosting-your-docs-from-an-existing-project-repo).
-
-After completing the creation of your new site on GitHub, update it as needed:
-
-## Replace the content of the template pages
-
-Update the following files to your own content:
-
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
-
-## Changing the version of the theme and/or Jekyll
-
-Simply edit the relevant line(s) in the `Gemfile`.
-
-## Adding a plugin
-
-The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
-
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
-
-- Add the following to your site's `Gemfile`:
-
-  ```ruby
-  gem "jekyll-default-layout"
-  ```
-
-- And add the following to your site's `_config.yml`:
-
-  ```yaml
-  plugins:
-    - jekyll-default-layout
-  ```
-
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
 
 ## Publishing your site on GitHub Pages
 
