@@ -1,6 +1,7 @@
 ---
 title: Introducción
 layout: home
+nav_order: 1
 ---
 
 # Digital Futures 2023
