@@ -6,6 +6,8 @@ nav_order: 1
 
 # Digital Futures 2023
 ## Diseño Avanzado de Mallas para Fabricación Digital
+## Playlist del Workshop
+Este workshop estará transmitido en vivo por Youtube y los videos se guardarán en [este playlist](https://www.youtube.com/playlist?list=PL_3uTO4quq3y-EKwOaT1RcxJH4JSxBqBz)
 ### Temas:
 - Diseño Computacional, Fabricación Digital
 ### Descripción:
