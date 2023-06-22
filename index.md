@@ -1,32 +1,27 @@
 ---
-title: Home
+title: Introducción
 layout: home
 ---
-
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
-
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
-
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, just click "[use this template]"!
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+# Digital Futures 2023
+## Diseño Avanzado de Mallas para Fabricación Digital
+### Temas:
+- Diseño Computacional, Fabricación Digital
+### Descripción:
+Este taller se centrará en el diseño, análisis y procesamiento de superficies de doble curvatura y su segmentación y manejo para su construcción por medio de técnicas avanzadas de diseño paramétrico, scripting, y fabricación digital. El objetivo fundamental es profundizar en el uso de superficies complejas para el diseño en general y abordar los retos para su fabricación de una manera didáctica y sencilla gracias a las herramientas digitales. 
+Se estudiarán diversos scripts de generación de superficies matemáticas, flujos de trabajo para su segmentación y su manejo para generar datos de fabricación por medio de herramientas de diseño paramétrico. 
+### Objetivos de aprendizaje y resultados esperados:
+Debido a que el taller es a distancia, se buscará que cada asistente, usando herramientas locales, pueda implementar flujos de trabajo de superficies complejas con herramientas sencillas. Se buscará la fabricación de un modelo de una superficie matemática de la escala que cada asistente juzgue pertinente. 
+Cada asistente aprenderá a diseñar y analizar superficies matemáticas y las mejores maneras de fabricarlas con herramientas comunes. 
+## Programa Detallado:
+### Unidad 1: Introducción (Sábado 22 | 10:00 – 13:00 GMT-6, CDMX)
+- Presentación de la agenda del workshop
+- Introducción al diseño de superficies de doble curvatura.
+- Uso de herramientas de diseño paramétrico para la generación y manipulación de superficies complejas. Práctica con scripts de generación de superficies matemáticas.
+### Unidad 2: Segmentación de Superficies (Domingo 23 | 10:00 – 13:00 GMT-6, CDMX)
+- Segmentación de superficies de doble curvatura y flujos de trabajo para su manejo y análisis. Ejercicios prácticos de segmentación de superficies complejas.
+### Unidad 3: Fabricación (Lunes 24 | 16:00 – 19:00 GMT-6, CDMX)
+- Generación de datos de fabricación utilizando herramientas de diseño paramétrico. Exploración de flujos de trabajo para la generación de archivos para fabricación digital y análoga.
+### Unidad 4: Revisión 1 (Miércoles 26 | 18:00 – 20:00 GMT-6, CDMX)
+- Revisión de propuestas, sesión de consultas finales
+### Unidad 5: Entrega Final (Sábado 29 | 18:00 – 20:00 GMT-6, CDMX)
+- Presentaciones finales- Taller
