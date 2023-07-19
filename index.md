@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # Digital Futures 2023
-## Diseño Avanzado de Mallas para Fabricación Digital
+# Diseño Avanzado de Mallas para Fabricación Digital
 ![](../img/1.jpeg)
 ## Playlist del Workshop
 Este workshop estará transmitido en vivo por Youtube y los videos se guardarán en [este playlist](https://www.youtube.com/playlist?list=PL_3uTO4quq3y-EKwOaT1RcxJH4JSxBqBz)
@@ -19,12 +19,15 @@ Debido a que el taller es a distancia, se buscará que cada asistente, usando he
 Cada asistente aprenderá a diseñar y analizar superficies matemáticas y las mejores maneras de fabricarlas con herramientas comunes. 
 ## Programa Detallado:
 ### Unidad 1: Introducción (Sábado 22 | 10:00 – 13:00 GMT-6, CDMX)
+- [Videoconferencia](https://redanahuac.zoom.us/j/93665673931)
 - Presentación de la agenda del workshop
 - Introducción al diseño de superficies de doble curvatura.
 - Uso de herramientas de diseño paramétrico para la generación y manipulación de superficies complejas. Práctica con scripts de generación de superficies matemáticas.
 ### Unidad 2: Segmentación de Superficies (Domingo 23 | 10:00 – 13:00 GMT-6, CDMX)
+- [Videoconferencia](https://redanahuac.zoom.us/j/93665673931)
 - Segmentación de superficies de doble curvatura y flujos de trabajo para su manejo y análisis. Ejercicios prácticos de segmentación de superficies complejas.
 ### Unidad 3: Fabricación (Lunes 24 | 16:00 – 19:00 GMT-6, CDMX)
+- [Videoconferencia](https://redanahuac.zoom.us/j/93997752748)
 - Generación de datos de fabricación utilizando herramientas de diseño paramétrico. Exploración de flujos de trabajo para la generación de archivos para fabricación digital y análoga.
 ### Unidad 4: Revisión 1 (Miércoles 26 | 18:00 – 20:00 GMT-6, CDMX)
 - Revisión de propuestas, sesión de consultas finales
