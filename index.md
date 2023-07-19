@@ -19,13 +19,13 @@ Debido a que el taller es a distancia, se buscará que cada asistente, usando he
 Cada asistente aprenderá a diseñar y analizar superficies matemáticas y las mejores maneras de fabricarlas con herramientas comunes. 
 ### COMPONENTES
 - Stripper
-	- [Stripper | Food4Rhino](https://www.food4rhino.com/en/app/stripper)
+  - [Stripper | Food4Rhino](https://www.food4rhino.com/en/app/stripper)
 - Ivy
-	- [Ivy | Food4Rhino](https://www.food4rhino.com/en/app/ivy)
+  - [Ivy | Food4Rhino](https://www.food4rhino.com/en/app/ivy)
 - Weavebird
-	- [Weaverbird – Topological Mesh Editor | Giulio Piacentino](https://www.giuliopiacentino.com/weaverbird/)
+  - [Weaverbird – Topological Mesh Editor | Giulio Piacentino](https://www.giuliopiacentino.com/weaverbird/)
 - Kangaroo2
-	- [Kangaroo Physics | Food4Rhino](https://www.food4rhino.com/en/app/kangaroo-physics)
+  - [Kangaroo Physics | Food4Rhino](https://www.food4rhino.com/en/app/kangaroo-physics)
 - Pufferfish
   - [Pufferfish | Food4Rhino](https://www.food4rhino.com/en/app/pufferfish) 
 ## Programa Detallado:
