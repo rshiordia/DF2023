@@ -23,7 +23,7 @@ Cada asistente aprenderá a diseñar y analizar superficies matemáticas y las m
 - Ivy
   - [Ivy | Food4Rhino](https://www.food4rhino.com/en/app/ivy)
 - Weavebird
-  - [Weaverbird – Topological Mesh Editor | Giulio Piacentino](https://www.giuliopiacentino.com/weaverbird/)
+  - [Weaverbird Topological Mesh Editor | Giulio Piacentino](https://www.giuliopiacentino.com/weaverbird/)
 - Kangaroo2
   - [Kangaroo Physics | Food4Rhino](https://www.food4rhino.com/en/app/kangaroo-physics)
 - Pufferfish
