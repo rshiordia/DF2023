@@ -6,9 +6,7 @@ nav_order: 1
 
 # Digital Futures 2023
 # Diseño Avanzado de Mallas para Fabricación Digital
-![](../img/1.jpeg)
-## Playlist del Workshop
-Este workshop estará transmitido en vivo por Youtube y los videos se guardarán en [este playlist](https://www.youtube.com/playlist?list=PL_3uTO4quq3y-EKwOaT1RcxJH4JSxBqBz)
+
 ### Temas:
 - Diseño Computacional, Fabricación Digital
 ### Descripción:
@@ -18,16 +16,13 @@ Se estudiarán diversos scripts de generación de superficies matemáticas, fluj
 Debido a que el taller es a distancia, se buscará que cada asistente, usando herramientas locales, pueda implementar flujos de trabajo de superficies complejas con herramientas sencillas. Se buscará la fabricación de un modelo de una superficie matemática de la escala que cada asistente juzgue pertinente. 
 Cada asistente aprenderá a diseñar y analizar superficies matemáticas y las mejores maneras de fabricarlas con herramientas comunes. 
 ### COMPONENTES
-- Stripper
-  - [Stripper | Food4Rhino](https://www.food4rhino.com/en/app/stripper)
-- Ivy
-  - [Ivy | Food4Rhino](https://www.food4rhino.com/en/app/ivy)
-- Weavebird
-  - [Weaverbird Topological Mesh Editor | Giulio Piacentino](https://www.giuliopiacentino.com/weaverbird/)
-- Kangaroo2
-  - [Kangaroo Physics | Food4Rhino](https://www.food4rhino.com/en/app/kangaroo-physics)
-- Pufferfish
-  - [Pufferfish | Food4Rhino](https://www.food4rhino.com/en/app/pufferfish) 
+
+- [Stripper](https://www.food4rhino.com/en/app/stripper)
+- [Ivy](https://www.food4rhino.com/en/app/ivy)
+- [Weaverbird Topological Mesh Editor](https://www.giuliopiacentino.com/weaverbird/)
+- [Kangaroo Physics](https://www.food4rhino.com/en/app/kangaroo-physics)
+- [Pufferfish](https://www.food4rhino.com/en/app/pufferfish)
+  
 ## Programa Detallado:
 ### Unidad 1: Introducción (Sábado 22 | 10:00 – 13:00 GMT-6, CDMX)
 - [Videoconferencia](https://redanahuac.zoom.us/j/92231720748)
@@ -46,3 +41,6 @@ Cada asistente aprenderá a diseñar y analizar superficies matemáticas y las m
 ### Unidad 5: Entrega Final (Sábado 29 | 18:00 – 20:00 GMT-6, CDMX)
 - [Videoconferencia](https://redanahuac.zoom.us/j/95494648531)
 - Presentaciones finales- Taller
+  
+## Playlist del Workshop
+Este workshop estará transmitido en vivo por Youtube y los videos se guardarán en [este playlist](https://www.youtube.com/playlist?list=PL_3uTO4quq3y-EKwOaT1RcxJH4JSxBqBz)
