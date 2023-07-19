@@ -17,6 +17,17 @@ Se estudiarán diversos scripts de generación de superficies matemáticas, fluj
 ### Objetivos de aprendizaje y resultados esperados:
 Debido a que el taller es a distancia, se buscará que cada asistente, usando herramientas locales, pueda implementar flujos de trabajo de superficies complejas con herramientas sencillas. Se buscará la fabricación de un modelo de una superficie matemática de la escala que cada asistente juzgue pertinente. 
 Cada asistente aprenderá a diseñar y analizar superficies matemáticas y las mejores maneras de fabricarlas con herramientas comunes. 
+### COMPONENTES
+- Stripper
+	- [Stripper | Food4Rhino](https://www.food4rhino.com/en/app/stripper)
+- Ivy
+	- [Ivy | Food4Rhino](https://www.food4rhino.com/en/app/ivy)
+- Weavebird
+	- [Weaverbird – Topological Mesh Editor | Giulio Piacentino](https://www.giuliopiacentino.com/weaverbird/)
+- Kangaroo2
+	- [Kangaroo Physics | Food4Rhino](https://www.food4rhino.com/en/app/kangaroo-physics)
+- Pufferfish
+  - [Pufferfish | Food4Rhino](https://www.food4rhino.com/en/app/pufferfish) 
 ## Programa Detallado:
 ### Unidad 1: Introducción (Sábado 22 | 10:00 – 13:00 GMT-6, CDMX)
 - [Videoconferencia](https://redanahuac.zoom.us/j/93665673931)
