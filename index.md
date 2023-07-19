@@ -30,17 +30,19 @@ Cada asistente aprenderá a diseñar y analizar superficies matemáticas y las m
   - [Pufferfish | Food4Rhino](https://www.food4rhino.com/en/app/pufferfish) 
 ## Programa Detallado:
 ### Unidad 1: Introducción (Sábado 22 | 10:00 – 13:00 GMT-6, CDMX)
-- [Videoconferencia](https://redanahuac.zoom.us/j/93665673931)
+- [Videoconferencia](https://redanahuac.zoom.us/j/92231720748)
 - Presentación de la agenda del workshop
 - Introducción al diseño de superficies de doble curvatura.
 - Uso de herramientas de diseño paramétrico para la generación y manipulación de superficies complejas. Práctica con scripts de generación de superficies matemáticas.
 ### Unidad 2: Segmentación de Superficies (Domingo 23 | 10:00 – 13:00 GMT-6, CDMX)
-- [Videoconferencia](https://redanahuac.zoom.us/j/93665673931)
+- [Videoconferencia](https://redanahuac.zoom.us/j/92231720748)
 - Segmentación de superficies de doble curvatura y flujos de trabajo para su manejo y análisis. Ejercicios prácticos de segmentación de superficies complejas.
 ### Unidad 3: Fabricación (Lunes 24 | 16:00 – 19:00 GMT-6, CDMX)
-- [Videoconferencia](https://redanahuac.zoom.us/j/93997752748)
+- [Videoconferencia](https://redanahuac.zoom.us/j/94344354434)
 - Generación de datos de fabricación utilizando herramientas de diseño paramétrico. Exploración de flujos de trabajo para la generación de archivos para fabricación digital y análoga.
 ### Unidad 4: Revisión 1 (Miércoles 26 | 18:00 – 20:00 GMT-6, CDMX)
+- [Videconferencia](https://redanahuac.zoom.us/j/97054077359)
 - Revisión de propuestas, sesión de consultas finales
 ### Unidad 5: Entrega Final (Sábado 29 | 18:00 – 20:00 GMT-6, CDMX)
+- [Videoconferencia](https://redanahuac.zoom.us/j/95494648531)
 - Presentaciones finales- Taller
