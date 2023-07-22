@@ -20,6 +20,7 @@ nav_order: 1
 - [Weaverbird Topological Mesh Editor](https://www.giuliopiacentino.com/weaverbird/)
 - [Kangaroo Physics](https://www.food4rhino.com/en/app/kangaroo-physics)
 - [Pufferfish](https://www.food4rhino.com/en/app/pufferfish)
+- [OpenNest](https://www.food4rhino.com/en/app/opennest)
   
 ## Programa Detallado:
 ### Unidad 1: Introducción (Sábado 22 | 10:00 – 13:00 GMT-6, CDMX)
