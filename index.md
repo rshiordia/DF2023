@@ -12,7 +12,8 @@ nav_order: 1
 - En está página está toda la información para los asistentes del taller, pueden empezar por instalar los componentes que usaremos.
 - La contraseñña para todas las videoconferencias será: __D!g!74L__
 
-  
+### Servidor de Discord
+- [Haz click aquí](https://discord.gg/Unkn5GBX) para unirte al servidor de discord.
 ### COMPONENTES
 
 - [Stripper](https://www.food4rhino.com/en/app/stripper)
