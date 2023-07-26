@@ -1,3 +1,9 @@
+---
+layout: default
+title: Resultados
+nav_order: 6
+---
+
 # Entrega de Resultados del Workshop
 
 ## Entregables 
